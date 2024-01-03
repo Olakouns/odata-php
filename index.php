@@ -1,9 +1,5 @@
 <?php
 
-
-// https://stackoverflow.com/questions/35512290/how-to-send-odata-to-restful-api-in-php-curl-request?rq=3
-
-
 // Set your OData service URL
 $url = 'https://services.odata.org/TripPinRESTierService/Airlines';
 
