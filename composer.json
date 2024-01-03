@@ -1,0 +1,16 @@
+{
+    "name": "rkounasso/odata",
+    "autoload": {
+        "psr-4": {
+            "Rkounasso\\Odata\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "olakouns"
+        }
+    ],
+    "require": {
+        "saintsystems/odata-client": "^0.7.2"
+    }
+}
